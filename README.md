@@ -7,8 +7,8 @@
 import { BrouserRouter as Router, Route, Link }  from 'react-router-dom'
 
 <Router>
-
-<Link className="nav-link active" to="/">home</Link>    
+  <Link className="nav-link active" to="/">home</Link>
+    
 
 </Router>
 # 이런 형식으로 라우터 설정을 한다.
